@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clow</string>
+    <string name="hinh">Hinh</string>
+    <string name="random_card">Random Card</string>
+</resources>
